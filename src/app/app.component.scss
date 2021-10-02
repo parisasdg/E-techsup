@@ -1,0 +1,28 @@
+::ng-deep .container-fluid {
+  margin: 0;
+  padding: 0;
+}
+
+.shopping-list {
+  width: 90%;
+  border: 1px solid #d2d2d2;
+  box-shadow: 0px 5px 6px -7px #2b2a2a, -49px -31px 2px -20px rgba(81, 81, 81, 0);
+}
+
+.button-style {
+  border: none;
+  box-shadow: -1px 7px 13px -9px #908e8e, -13px -7px 33px 9px rgba(81, 81, 81, 0);
+}
+
+.input-style {
+  border: 1px solid #d2d2d2;
+}
+
+.price {
+  font-size: small;
+}
+
+.btn-block {
+  display: block;
+  width: 100%;
+}
